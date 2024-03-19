@@ -1,2 +1,2 @@
 # azka.saw
-p
+bul
